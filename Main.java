@@ -1,5 +1,6 @@
-//if else
+//Conditional Statements
 
+//if else
 //If else code for a number to be + or - 
 
 import java.util.*;
@@ -17,7 +18,6 @@ public class Main {
 }
 
 //else if
-
 //Else if code for tax calculating
  
 import java.util.*;
@@ -61,7 +61,6 @@ public class Main {
 }
 
 //Ternary Operator
-
 //Code for checking a number is even or odd
 
 import java.util.*;
@@ -77,7 +76,6 @@ public class Main {
 }
 
 //Switch
-
 //Sample switch code
 
 import java.util.*;
