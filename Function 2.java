@@ -111,3 +111,29 @@ public class Main {
            }
     }
 }
+
+// Checking the Palindrome
+
+import java.util.*;
+public class Main {
+    public static int palindrome(int n) {
+        int m=0;
+        while(n>0){
+        int r=n%10;
+        m=m*10+r;
+        n=n/10;
+        }
+        return m;
+    }
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int reverse=palindrome(n);
+        if(reverse==n){
+          System.out.println("Yes, it is palindrome");   
+        }
+        else{
+            System.out.println("No, it is not palindrome"); 
+        }
+    }
+}
