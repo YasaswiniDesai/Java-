@@ -138,13 +138,13 @@ public class Main {
     }
 }
 
-//Total sum of a Digit 
+//Total sum of a Digit (for example 567 then sum is 5+6+7=18)
 
 import java.util.*;
 public class Solution {
     public static void main(String[]args) {
         Scanner sc=new Scanner(System.in);
-        System.out.print("Input an integer: ");
+        System.out.print("Input an integer: "); 
         int digits=sc.nextInt();
         System.out.println("The sum is "+sumDigits(digits));
     }
