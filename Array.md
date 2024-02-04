@@ -1,4 +1,4 @@
-## Creating and taking input and showing output
+## Creating an Array (Taking input and Showing output)
 
 ```java
 import java.util.*;
