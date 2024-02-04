@@ -19,7 +19,7 @@ public class Array{
     }
 }
 ```
-### output
+### output :
 ![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/963e2083-ced1-4743-be3c-5bd3b3351554)
 
 ## Updating the array values by 1 
@@ -49,8 +49,11 @@ public class App {
     }
 }
 ```
+### output :
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/81016c42-a143-413a-b54e-db7f9b7d39a9)
 
-## Linear Search
+
+# Linear Search
 
 ```java
 import java.util.*;
@@ -83,6 +86,9 @@ public class App {
     }
 }
 ```
+### output :
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/8f7533d7-22eb-4e74-a40b-522f190aa63f)
+
 
 ## Linear Search in String Version
 
@@ -117,6 +123,9 @@ public class App {
     }
 }
 ```
+### output :
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/b79b09eb-1e9c-4221-a615-cdae780803fd)
+
 
 ## Largest of Array numbers 
 
@@ -146,6 +155,9 @@ public class App{
     }
 }
 ```
+### output :
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/70829fcf-9f51-47c4-a4ab-8a0662dce83f)
+
 
 ## Smallest and Largest of Array numbers 
 
@@ -180,8 +192,10 @@ public class App{
     }
 }
 ```
+### output :
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/6d425a98-d61b-4ebb-815e-2e9ba13a1c66)
 
-## Binary Search
+# Binary Search
 
 ```java
 import java.util.*;
@@ -227,6 +241,8 @@ public class App{
     }
 }
 ```
+### output :
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/2fd2e2f2-a9a4-4d27-b317-a1ac733c2030)
 
 ## Reverse the array without using any external array
 
@@ -259,6 +275,8 @@ public class App{
     }
 }
 ```
+### output :
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/02dad81c-f219-4b7c-8a23-6d91370ba0c2)
 
 ## Print Pairs from Array 
 
@@ -280,6 +298,8 @@ public class App{
 }
 }
 ```
+### output :
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/10361e6d-6285-47fe-97a0-10fff22367e9)
 
 ## Print Subarray of Array
 
@@ -304,3 +324,5 @@ public class App{
 }
 }
 ```
+### output :
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/f7432666-f9c9-4441-aef1-70410d50d672)
