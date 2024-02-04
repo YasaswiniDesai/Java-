@@ -19,6 +19,7 @@ public class Array{
     }
 }
 ```
+# output
 ![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/963e2083-ced1-4743-be3c-5bd3b3351554)
 
 ## Updating the array values by 1 
