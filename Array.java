@@ -1,4 +1,4 @@
-//Creating and taking input and showing output
+##Creating and taking input and showing output
 
 import java.util.*;
 public class Array{
