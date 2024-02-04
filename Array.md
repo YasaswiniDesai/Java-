@@ -1,5 +1,6 @@
-##Creating and taking input and showing output
+## Creating and taking input and showing output
 
+```java
 import java.util.*;
 public class Array{
     public static void main(String[]args) {
@@ -17,9 +18,11 @@ public class Array{
         }
     }
 }
+```
 
-//Updating the array values by 1 
+## Updating the array values by 1 
 
+```java
 import java.util.*;
 public class App {
     public static void Update(int marks[]){
@@ -43,10 +46,11 @@ public class App {
         }
     }
 }
+```
 
+## Linear Search
 
-//Linear Search
-
+```java
 import java.util.*;
 public class App {
     public static int Linearsearch(int marks[],int key){
@@ -76,10 +80,11 @@ public class App {
         }
     }
 }
+```
 
+## Linear Search in String Version
 
-//Linear Search in String Version
-
+```java
 import java.util.*;
 public class App {
     public static int Linearsearch(String menu[], String key) {
@@ -109,9 +114,11 @@ public class App {
         }
     }
 }
+```
 
-//Largest of Array numbers 
+## Largest of Array numbers 
 
+```java
 import java.util.*;
 public class App{
     public static int Largestarray(int arr[]){
@@ -136,9 +143,11 @@ public class App{
        System.out.println("The Largest of the Array is :"+ largest);
     }
 }
+```
 
-//Smallest and Largest of Array numbers 
+## Smallest and Largest of Array numbers 
 
+```java
 import java.util.*;
 public class App{
     public static int Largestarray(int arr[]){
@@ -168,9 +177,11 @@ public class App{
        System.out.println("The Largest of the Array is :"+ largest);
     }
 }
+```
 
-//Binary Search
+## Binary Search
 
+```java
 import java.util.*;
 public class App{
     public static int BinarySearch(int arr[],int key){
@@ -213,9 +224,11 @@ public class App{
        }
     }
 }
+```
 
-//Reverse the array without using any external array
+## Reverse the array without using any external array
 
+```java
 import java.util.*;
 public class App{
     public static void ReverseArray(int arr[]){
@@ -243,9 +256,11 @@ public class App{
        }
     }
 }
+```
 
-//Print Pairs from Array 
+## Print Pairs from Array 
 
+```java
 import java.util.*;
 public class App{
     public static void Printpairs(int arr[]){
@@ -262,9 +277,11 @@ public class App{
     Printpairs(array);
 }
 }
+```
 
-//Print Subarray of Array
+## Print Subarray of Array
 
+```java
 import java.util.*;
 public class App{
     public static void Subarray(int arr[]){
@@ -284,4 +301,4 @@ public class App{
     Subarray(array);
 }
 }
-
+```
