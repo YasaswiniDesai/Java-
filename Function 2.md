@@ -18,7 +18,7 @@ public class Main{
     }
 }
 ```
-### output :
+### Output :
 ![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/f2b86a02-da71-4b95-ac70-e671491b725c)
 
 ## Code for factorial of n using recursion
@@ -42,6 +42,9 @@ public class Main{
     }
 }
 ```
+### Output :
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/cc98a6b5-1bea-4ba4-94b5-f3d822f9c2d1)
+
 ## Calculate the binomialcoefficient 
 
 ```java
@@ -69,6 +72,10 @@ public class Main{
     } 
 }
 ```
+### Output :
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/c3d351aa-202c-4c23-88e3-956b24db6ffd)
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/d93cb88c-5856-49ec-b551-5efcbe2367af)
+
 
 ## Binary to Decimal Code  
 
@@ -95,6 +102,8 @@ public class Main {
     }
 }
 ```
+### Output :
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/518038bf-254f-4e2b-ae3c-5206a4f8c256)
 
 ## Decimal to Binary Code 
 
@@ -122,6 +131,8 @@ public class Main {
     }
 }
 ```
+### Output :
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/1eaf9f93-6860-4a03-be22-d96ae7489a3f)
 
 ## Checking the Palindrome
 
@@ -150,6 +161,10 @@ public class Main {
     }
 }
 ```
+### Output :
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/d4ca00a1-b5db-47a6-9a78-d7a9dab7b115)
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/b680b1aa-7e92-47e5-90b3-9e8adb07931c)
+
 
 ## Total sum of a Digit (for example 567 then sum is 5+6+7=18)
 ```java
@@ -172,3 +187,6 @@ public class Solution {
     }
 }
 ```
+### Output :
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/5cf95e2b-637d-4ec8-a0e6-23c53978bac7)
+
