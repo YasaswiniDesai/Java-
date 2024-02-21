@@ -18,6 +18,9 @@ public class Main{
     }
 }
 ```
+### output :
+![image](https://github.com/YasaswiniDesai/Java-/assets/92711164/f2b86a02-da71-4b95-ac70-e671491b725c)
+
 ## Code for factorial of n using recursion
 
 ```java
