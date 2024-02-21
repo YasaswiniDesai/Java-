@@ -1,5 +1,6 @@
-//Code for factorial of n
+## Code for factorial of n
 
+```java
 import java.util.*;
 public class Main{
     public static int fact(int n){
@@ -16,9 +17,10 @@ public class Main{
         System.out.println("factorial of " + n + " is "+ fact(n));
     }
 }
+```
+## Code for factorial of n using recursion
 
-//Code for factorial of n using recursion
-
+```java
 import java.util.*;
 public class Main{
     public static int fact(int n){
@@ -36,9 +38,10 @@ public class Main{
         System.out.println("factorial of " + n + " is "+ fact(n));
     }
 }
+```
+## Calculate the binomialcoefficient 
 
-//Calculate the binomialcoefficient 
-
+```java
 import java.util.*;
 public class Main{
     public static int fact(int n){
@@ -62,9 +65,11 @@ public class Main{
         System.out.println(binomialcoefficient(n,r));
     } 
 }
+```
 
-//Binary to Decimal Code  
+## Binary to Decimal Code  
 
+```java
 import java.util.*;
 import java.lang.Math;
 public class Main {
@@ -86,9 +91,11 @@ public class Main {
         binary(n);
     }
 }
+```
 
-//Decimal to Binary Code  
+## Decimal to Binary Code 
 
+```java
 import java.util.*;
 import java.lang.Math;
 public class Main {
@@ -111,9 +118,11 @@ public class Main {
            }
     }
 }
+```
 
-// Checking the Palindrome
+## Checking the Palindrome
 
+```java
 import java.util.*;
 public class Main {
     public static int palindrome(int n) {
@@ -137,9 +146,10 @@ public class Main {
         }
     }
 }
+```
 
-//Total sum of a Digit (for example 567 then sum is 5+6+7=18)
-
+## Total sum of a Digit (for example 567 then sum is 5+6+7=18)
+```java
 import java.util.*;
 public class Solution {
     public static void main(String[]args) {
@@ -158,3 +168,4 @@ public class Solution {
         return sumOfDigits;
     }
 }
+```
